@@ -1,3 +1,4 @@
+![logo](https://github.com/kholiskamal/config-profile/blob/main/UIUX%20%26%20FRONTEND.png)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
