@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
-- 👨‍💻 All of my projects are available at https://kholiskamal.github.io/portofolio/
+- 👨‍💻 All of my projects are available at [https://kholiskamal.github.io/portofolio/](https://portofolio-kholis-kamaluddin-wahib.netlify.app/)
 
 - ⚡ A computer deserves to be called intelligent if it can trick humans into believing that it is a human👏
 
